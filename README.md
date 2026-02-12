@@ -15,16 +15,6 @@ Both datasets were aligned at a daily level using timestamps.
 
 ---
 
-## Methodology
-- Data cleaning and normalization of column names
-- Timestamp parsing and date alignment
-- Feature engineering (daily PnL, win rate, trade frequency, average size)
-- Merging sentiment and trading data
-- Exploratory data analysis and visualization
-- Trader segmentation
-- Baseline predictive modeling using Logistic Regression
-
----
 
 ## Key Insights
 - Position sizes tend to increase during Fear and Neutral periods.
