@@ -42,7 +42,6 @@ Both datasets were aligned at a daily level using timestamps.
 ## Repository Structure
 - Notebook: Main analysis
 - outputs/: Charts and summary tables
-- report.md: Detailed findings and recommendations
 
 ---
 
